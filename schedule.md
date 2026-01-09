@@ -22,7 +22,6 @@ th {
 .theme {
   writing-mode: sideways-lr;
   text-align: center;
-  font-weight: bold;
 }
 
 .week {
@@ -49,13 +48,13 @@ th {
   text-align: center;
 }
 
-.recitation {
+.recitation > td {
   font-style: italic;
   background-color: rgba(175, 175, 175, 0.3);
 }
 
-.week-start {
-  border-top: 2.5px solid rgb(200, 200, 200) !important;
+.week-start > td {
+  border-top: 2.5px solid rgb(200, 200, 200);
 }
 
 .due {

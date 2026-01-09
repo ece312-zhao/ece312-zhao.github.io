@@ -1,13 +1,12 @@
-title: "ECE 382N: Security at the Hardware-Software Interface"
-description: "Course website for \"ECE382N: Security at the Hardware-Software Interface\" at UT Austin"
+title: "ECE 312: Software Design and Implementation I"
+description: "Course website for \"ECE 312: Software Design and Implementation I\" at UT Austin"
 theme: just-the-docs
 
-url: https://ece382n-sec-ut.github.io
+url: https://ece312-zhao.github.io
 
 aux_links:
   Home: /
   Schedule: /schedule
-  Project: /project
 
 # sass:
 #   style: compressed
