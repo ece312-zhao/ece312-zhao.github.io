@@ -227,7 +227,7 @@ ul.inline {
 <tr class="week-start">
     <td rowspan="3" class="week" id="week-9">Week 9</td>
     <td class="date">Mar 9</td>
-    <td>(L) Tree</td>
+    <td>(L) Trees</td>
     <td><!-- Lecture Materials --></td>
     <td><!-- Dues --></td>
 </tr>
