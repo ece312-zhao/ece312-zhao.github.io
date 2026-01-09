@@ -264,7 +264,7 @@ ul.inline {
 </tr>
 <tr class="recitation">
     <td class="date">Mar 25</td>
-    <td>(R)</td>
+    <td>(R) PA #5 Hints</td>
     <td><!-- Lecture Materials --></td>
     <td><!-- Dues --></td>
 </tr>
@@ -283,7 +283,7 @@ ul.inline {
 </tr>
 <tr class="recitation">
     <td class="date">Apr 1</td>
-    <td><!-- Lecture Title --></td>
+    <td>(R) Common C++ Boilerplates I</td>
     <td><!-- Lecture Materials --></td>
     <td><!-- Dues --></td>
 </tr>
@@ -302,7 +302,7 @@ ul.inline {
 </tr>
 <tr class="recitation">
     <td class="date">Apr 8</td>
-    <td><!-- Lecture Title --></td>
+    <td>(R) Common C++ Boilerplates II</td>
     <td><!-- Lecture Materials --></td>
     <td><!-- Dues --></td>
 </tr>
@@ -321,7 +321,7 @@ ul.inline {
 </tr>
 <tr class="recitation">
     <td class="date">Apr 15</td>
-    <td><!-- Lecture Title --></td>
+    <td>(R) PA #6 Hints</td>
     <td><!-- Lecture Materials --></td>
     <td><!-- Dues --></td>
 </tr>
@@ -340,7 +340,7 @@ ul.inline {
 </tr>
 <tr class="recitation">
     <td class="date">Apr 22</td>
-    <td><!-- Lecture Title --></td>
+    <td>More Review</td>
     <td><!-- Lecture Materials --></td>
     <td><!-- Dues --></td>
 </tr>
