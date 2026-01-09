@@ -21,8 +21,8 @@ th {
 
 .theme {
   writing-mode: sideways-lr;
-  padding: 0.25rem;
   text-align: center;
+  font-weight: bold;
 }
 
 .week {
@@ -55,12 +55,12 @@ th {
 }
 
 .week-start {
-  border-top: 2.5px solid rgb(200, 200, 200)
+  border-top: 2.5px solid rgb(200, 200, 200) !important;
 }
 
 .due {
   color: rgba(211, 65, 65, 1);
-  font-weight: 600;
+  font-weight: bold;
 }
 
 ul.inline {
@@ -73,7 +73,7 @@ ul.inline {
 
 <table><thead>
   <tr>
-    <th>Theme</th>
+    <th style="padding: 0">Theme</th>
     <th></th>
     <th>Date</th>
     <th>Topic</th>
