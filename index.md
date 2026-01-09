@@ -4,18 +4,18 @@ layout: home
 nav_enabled: false
 ---
 
-# ECE 382N: Security at the Hardware-Software Interface (UT Austin)
-<p class="year-tag">Fall 2025</p>
+# ECE 312: Software Design and Implementation I (UT Austin)
+<p class="year-tag">Spring 2026</p>
 <hr>
 
-**When and Where:** Mon & Weds, 3pm--4:30pm, ~~PMA 7.114~~ <span>&#8594;</span> **WAG 214**\\
-**Format:** Lectures, paper reading & discussions, research-oriented term projects\\
+**When and Where:** Mon & Weds, 1:30pm--3:00pm, EER 1.516\\
+**Format:** Lectures and Live Coding\\
 **Instructor:** [Neil Zhao](https://zzrcxb.me) <[neil.zhao@utexas.edu](mailto:neil.zhao@utexas.edu)>, *please just call him Neil*\\
 **Instructor Office Hour:** Tue 2pm--3pm, Thu 11am--12pm, or by appointments, EER 5.890\\
-**TA:** Ethan Jiang <[zx.jiang@utexas.edu](mailto:zx.jiang@utexas.edu)>\\
-**TA Office Hour:** Tue 3pm--4pm, EER 5.652 (for logistical questions)
+**TA:** TBA\\
+**TA Office Hour:** TBA
 
-[[Schedule, reading list, and slides](schedule)], [[Term project](project)], [[Ed discussion](https://edstem.org/us/courses/83088/discussion)], [[Acknowledgements](ack)]
+[[Schedule and Materials](schedule)], [[Canvas](https://utexas.instructure.com/courses/1434840)], [[Ed discussion](https://edstem.org/us/courses/91893/discussion)], [[Acknowledgements](ack)]
 
 <hr>
 
