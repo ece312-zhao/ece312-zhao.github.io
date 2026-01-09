@@ -54,7 +54,7 @@ th {
 }
 
 .week-start > td {
-  border-top: 2.5px solid rgb(200, 200, 200);
+  border-top: 1px solid rgb(200, 200, 200);
 }
 
 .due {
