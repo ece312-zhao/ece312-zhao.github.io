@@ -126,7 +126,7 @@ tbody tr:last-of-type td {
     <td class="date">Jan 26</td>
     <td>(L) Pointers and Memory Basics</td>
     <td><!-- Lecture Materials --></td>
-    <td class="due">PA #0 Due (4%)</td>
+    <td class="due">PA #0 Due (3%)</td>
 </tr>
 <tr>
     <td class="date">Jan 28</td>
@@ -145,7 +145,7 @@ tbody tr:last-of-type td {
     <td class="date">Feb 2</td>
     <td>(L) Structs</td>
     <td><!-- Lecture Materials --></td>
-    <td class="due">PA #1 Due (4%)</td>
+    <td class="due">PA #1 Due (3%)</td>
 </tr>
 <tr>
     <td class="date">Feb 4</td>
@@ -165,7 +165,7 @@ tbody tr:last-of-type td {
     <td class="date">Feb 9</td>
     <td>(L) Sorting and Searching</td>
     <td><!-- Lecture Materials --></td>
-    <td class="due">PA #2 Due (4%)</td>
+    <td class="due">PA #2 Due (3%)</td>
 </tr>
 <tr>
     <td class="date">Feb 11</td>
@@ -184,7 +184,7 @@ tbody tr:last-of-type td {
     <td class="date">Feb 16</td>
     <td>(L) Algorithm Complexity II</td>
     <td><!-- Lecture Materials --></td>
-    <td class="due">PA #3 Due (4%)</td>
+    <td class="due">PA #3 Due (3%)</td>
 </tr>
 <tr>
     <td class="date">Feb 18</td>
@@ -203,7 +203,7 @@ tbody tr:last-of-type td {
     <td class="date">Feb 23</td>
     <td>(L) Recursion II</td>
     <td><!-- Lecture Materials --></td>
-    <td class="due">PA #4 Due (4%)</td>
+    <td class="due">PA #4 Due (3%)</td>
 </tr>
 <tr>
     <td class="date">Feb 25</td>
@@ -283,7 +283,7 @@ tbody tr:last-of-type td {
     <td class="date">Apr 1</td>
     <td>(L) Inheritance and Polymorphism I</td>
     <td><!-- Lecture Materials --></td>
-    <td class="due">PA #5 Due (8%)</td>
+    <td class="due">PA #5 Due (7%)</td>
 </tr>
 <tr class="recitation">
     <td class="date">Apr 1</td>
@@ -351,7 +351,7 @@ tbody tr:last-of-type td {
 <tr class="week-start">
     <td></td>
     <td colspan="2" style="text-align: center" class="date">Apr 27</td>
-    <td colspan="3" class="exam">Final Exam (35%)</td>
+    <td colspan="3" class="exam">Final Exam (30%)</td>
 </tr>
 </tbody></table>
 \* With free food!
