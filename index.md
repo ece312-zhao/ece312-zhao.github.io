@@ -59,9 +59,38 @@ down to a minimum of 0. We round up to the next hour.
 * 30%: Final exam
 
 ### Grade Breaks
-| Grade | A         | A-       | B+       | B        | B-       | C+       | C        | C-       | D+       | D        | D-       | F       |
-|-------|-----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|---------|
-| Range | [94, 100] | [90, 94) | [87, 89) | [84, 87) | [80, 84) | [77, 80) | [74, 77) | [70, 74) | [67, 70) | [64, 67) | [60, 64) | [0, 60) |
+<table>
+    <tr>
+        <td>Grade</td>
+        <td>A</td>
+        <td>A-</td>
+        <td>B+</td>
+        <td>B</td>
+        <td>B-</td>
+        <td>C+</td>
+        <td>C</td>
+        <td>C-</td>
+        <td>D+</td>
+        <td>D</td>
+        <td>D-</td>
+        <td>F</td>
+    </tr>
+    <tr>
+        <td>Range</td>
+        <td>[94, 100]</td>
+        <td>[90, 94)</td>
+        <td>[87, 89)</td>
+        <td>[84, 87)</td>
+        <td>[80, 84)</td>
+        <td>[77, 80)</td>
+        <td>[74, 77)</td>
+        <td>[70, 74)</td>
+        <td>[67, 70)</td>
+        <td>[64, 67)</td>
+        <td>[60, 64)</td>
+        <td>[0, 60)</td>
+    </tr>
+</table>
 
 ## Academic Integrity
 The university provides a Canvas [page](https://utexas.instructure.com/courses/1377522) with policies and resources relevant to all courses. You can refer to it as you navigate your time at UT. This course also has the following additional policies.
