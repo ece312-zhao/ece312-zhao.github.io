@@ -67,10 +67,6 @@ down to a minimum of 0. We round up to the next hour.
 td {
   min-width: 2rem !important;
 }
-
-tbody tr:last-of-type td {
-  padding-bottom: 0 !important;
-}
 </style>
 
 <table>

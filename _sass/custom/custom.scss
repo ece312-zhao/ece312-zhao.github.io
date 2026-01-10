@@ -37,3 +37,7 @@ li.blocked::before {
 .site-button {
     font-size: medium;
 }
+
+tbody tr:last-of-type td {
+  padding-bottom: 0.5rem !important;
+}

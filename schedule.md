@@ -66,10 +66,6 @@ ul.inline {
   margin-bottom: 0 !important;
 }
 
-tbody tr:last-of-type td {
-  padding-bottom: 0 !important;
-}
-
 </style>
 
 (L) = Lectures; (R) = Recitation
