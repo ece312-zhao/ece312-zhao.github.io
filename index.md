@@ -17,7 +17,10 @@ nav_enabled: false
 **TA:** Allison Seigler\\
 **TA Office Hours:** TBA
 
-[[Schedule and Materials](schedule)], [[Canvas](https://utexas.instructure.com/courses/1434840)], [[Ed Discussion](https://edstem.org/us/courses/91893/discussion)], [[Acknowledgements](ack)]
+[[Schedule and Materials](schedule)],
+[<a href="https://utexas.instructure.com/courses/1434840" target="_blank">Canvas</a>],
+[<a href="https://edstem.org/us/courses/91893/discussion" target="_blank">Ed Discussion</a>],
+[[Acknowledgements](ack)]
 
 <hr>
 
