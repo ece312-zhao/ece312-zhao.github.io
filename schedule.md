@@ -89,14 +89,14 @@ tbody tr:last-of-type td {
     <td rowspan="3" class="week" id="week-1">Week 1</td>
     <td class="date">Jan 12</td>
     <td>(L) Course Introduction</td>
-    <td>[Slides]</td>
+    <td></td>
     <td></td>
 </tr>
 <tr>
     <td class="date">Jan 14</td>
     <td>(L) Variables and Functions</td>
     <td><!-- Lecture Materials --></td>
-    <td><a href="https://forms.gle/nX2kyiBxQmFPqetQ9" target="_blank">Anonymous Survey (0.5%)</a></td>
+    <td><a href="https://forms.gle/VR6cvcGyr9ycnSzL6" target="_blank">Anonymous Survey (0.5%)</a></td>
 </tr>
 <tr class="recitation">
     <td class="date">Jan 14</td>
@@ -222,7 +222,7 @@ tbody tr:last-of-type td {
     <td class="date">Mar 2</td>
     <td>(L) More Lists</td>
     <td><!-- Lecture Materials --></td>
-    <td><a href="https://forms.gle/nX2kyiBxQmFPqetQ9" target="_blank">Anonymous Survey (0.5%)</a></td>
+    <td>Anonymous Survey (0.5%)</td>
 </tr>
 <tr>
     <td class="date">Mar 4</td>
@@ -283,11 +283,11 @@ tbody tr:last-of-type td {
     <td class="date">Apr 1</td>
     <td>(L) Inheritance and Polymorphism I</td>
     <td><!-- Lecture Materials --></td>
-    <td class="due">PA #5 Due (7%)</td>
+    <td class="due">PA #5 Due<sup>1</sup> (7%)</td>
 </tr>
 <tr class="recitation">
     <td class="date">Apr 1</td>
-    <td>(R) Common C++ Boilerplates I</td>
+    <td>(R) PA #5 Checkout</td>
     <td><!-- Lecture Materials --></td>
     <td><!-- Dues --></td>
 </tr>
@@ -306,7 +306,7 @@ tbody tr:last-of-type td {
 </tr>
 <tr class="recitation">
     <td class="date">Apr 8</td>
-    <td>(R) Common C++ Boilerplates II</td>
+    <td>(R) Common C++ Boilerplates</td>
     <td><!-- Lecture Materials --></td>
     <td><!-- Dues --></td>
 </tr>
@@ -338,13 +338,13 @@ tbody tr:last-of-type td {
 </tr>
 <tr>
     <td class="date">Apr 22</td>
-    <td>Final Review*</td>
+    <td>(L) Final Review<sup>2</sup></td>
     <td><!-- Lecture Materials --></td>
-    <td class="due">PA #6 Due (8%)</td>
+    <td class="due">PA #6 Due<sup>1</sup> (8%)</td>
 </tr>
 <tr class="recitation">
     <td class="date">Apr 22</td>
-    <td>More Review</td>
+    <td>(R) PA #6 Checkout</td>
     <td><!-- Lecture Materials --></td>
     <td><!-- Dues --></td>
 </tr>
@@ -354,4 +354,5 @@ tbody tr:last-of-type td {
     <td colspan="3" class="exam">Final Exam (30%)</td>
 </tr>
 </tbody></table>
-\* With free food!
+<sup>1</sup> Due before the corresponding recitation session<br/>
+<sup>2</sup> With free food!
