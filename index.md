@@ -59,9 +59,20 @@ down to a minimum of 0. We round up to the next hour.
 * 30%: Final exam
 
 ### Grade Breaks
+
+<style type="text/css">
+td {
+  min-width: 2rem !important;
+}
+
+tbody tr:last-of-type td {
+  padding-bottom: 0 !important;
+}
+</style>
+
 <table>
     <tr>
-        <td>Grade</td>
+        <td><strong>Grade</strong></td>
         <td>A</td>
         <td>A-</td>
         <td>B+</td>
@@ -76,19 +87,19 @@ down to a minimum of 0. We round up to the next hour.
         <td>F</td>
     </tr>
     <tr>
-        <td>Range</td>
-        <td>[94, 100]</td>
-        <td>[90, 94)</td>
-        <td>[87, 89)</td>
-        <td>[84, 87)</td>
-        <td>[80, 84)</td>
-        <td>[77, 80)</td>
-        <td>[74, 77)</td>
-        <td>[70, 74)</td>
-        <td>[67, 70)</td>
-        <td>[64, 67)</td>
-        <td>[60, 64)</td>
-        <td>[0, 60)</td>
+        <td><strong>Cutoff</strong></td>
+        <td>>=94</td>
+        <td>>=90</td>
+        <td>>=87</td>
+        <td>>=84</td>
+        <td>>=80</td>
+        <td>>=77</td>
+        <td>>=74</td>
+        <td>>=70</td>
+        <td>>=67</td>
+        <td>>=64</td>
+        <td>>=60</td>
+        <td>>=0</td>
     </tr>
 </table>
 
