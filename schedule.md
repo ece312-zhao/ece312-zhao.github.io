@@ -85,7 +85,7 @@ ul.inline {
     <td rowspan="3" class="week" id="week-1">Week 1</td>
     <td class="date">Jan 12</td>
     <td>(L) Course Introduction</td>
-    <td>[Slides](slides/intro)</td>
+    <td><a href="slides/intro">Slides</a></td>
     <td></td>
 </tr>
 <tr>
