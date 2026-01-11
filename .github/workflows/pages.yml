@@ -58,23 +58,23 @@ jobs:
         run: |
           set -euxo pipefail
 
-          # base_path is "" for user/org sites, "/<repo>" for project sites
-          BASE_PATH="${{ steps.pages.outputs.base_path }}"
-          BASE_PATH="${BASE_PATH%/}"   # remove trailing slash if any
+          BASE="${{ steps.pages.outputs.base_path }}"
+          BASE="${BASE%/}"   # trim trailing slash
 
           for dir in slides/*; do
             [ -d "$dir" ] || continue
-            [ -f "$dir/package.json" ] || continue  # treat dirs with package.json as Slidev projects
+            [ -f "$dir/package.json" ] || continue
 
             name="$(basename "$dir")"
-            echo "Building Slidev deck: $name from $dir"
+            out_dir="${GITHUB_WORKSPACE}/_site/slides/${name}"
+            base_url="${BASE}/slides/${name}/"
 
-            pnpm -C "$dir" install --frozen-lockfile || pnpm -C "$dir" install
+            echo "Building Slidev: $name  (base=${base_url}, out=${out_dir})"
 
-            # Output into the built Jekyll site folder, so Pages deploy includes it
-            pnpm slidev build \
-              --base "${BASE_PATH}/slides/${name}/" \
-              --out "../../_site/slides/${name}"
+            pushd "$dir"
+              pnpm install --frozen-lockfile || pnpm install
+              pnpm exec slidev build --base "${base_url}" --out "${out_dir}"
+            popd
           done
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
