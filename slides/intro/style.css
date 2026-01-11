@@ -1,0 +1,43 @@
+:root {
+  --dark-blue: rgb(1, 100, 146);
+  --dark-red: rgb(164, 0, 0);
+}
+
+.slidev-layout.cover {
+  background: white !important;
+}
+
+.slidev-layout h1 + p {
+  opacity: 1;
+  margin-top: 0.75em;
+}
+
+.slidev-layout h1 {
+    color: var(--dark-blue);
+    text-align: center;
+}
+
+.slidev-layout p {
+  margin-bottom: 0.2em;
+}
+
+.highlight {
+    font-size: 1.5rem;
+    font-weight: 700;
+    padding: 0.1em 0.3em;
+    border-radius: 0.25em;
+}
+
+.large {
+    font-size: 1.35rem;
+    padding: 0.1em 0.3em;
+    border-radius: 0.25em;
+}
+
+.text-dkblue {
+    color: var(--dark-blue);
+}
+
+.text-dkred {
+    color: var(--dark-red);
+}
