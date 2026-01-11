@@ -72,7 +72,7 @@ jobs:
             pnpm -C "$dir" install --frozen-lockfile || pnpm -C "$dir" install
 
             # Output into the built Jekyll site folder, so Pages deploy includes it
-            pnpm -C "$dir" slidev build \
+            pnpm slidev build \
               --base "${BASE_PATH}/slides/${name}/" \
               --out "../../_site/slides/${name}"
           done
