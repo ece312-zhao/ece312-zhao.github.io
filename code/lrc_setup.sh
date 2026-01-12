@@ -1,7 +1,13 @@
-EID=$1
-SERVER_PATH=/misc/scratch/$EID
-echo "path to vscode server folder: $SERVER_PATH"
+#! /usr/bin/env bash
+
+set -eu -o pipefail
+
+SERVER_PATH=/misc/scratch/$(whoami)/.vscode-server
+
+echo "Path to vscode server folder: $SERVER_PATH"
+
 mkdir -p $SERVER_PATH
-mkdir -p $SERVER_PATH/.vscode-server
-ln -s $SERVER_PATH/.vscode-server .vscode-server
-echo "symbolic link set"
+
+ln -s $SERVER_PATH $HOME/.vscode-server
+
+echo "Symbolic link set"
