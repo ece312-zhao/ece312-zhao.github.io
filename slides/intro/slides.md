@@ -107,6 +107,28 @@ My programming story (or how I got into the graduate school)
 
 </div>
 
+---
+
+# How to Thrive in This Course?
+
+<v-clicks depth="2">
+
+- Be aware of the three tiers of knowledge
+  - Concepts
+  - Methodology
+  - Domain-specific knowledge
+- Be aware of the difference between "knowing a thing" and "knowing the name of a thing"
+
+</v-clicks>
+
+<br>
+
+<div class="w-1/2 mx-auto" v-click>
+
+<Youtube id="NjUSO4u2di0" height=220 width=350 />
+
+</div>
+
 
 ---
 
@@ -236,12 +258,15 @@ It has **up-to-date**:
 </div>
 
 **Use Ed Discussion for:**
+<v-clicks>
+
 - Questions/discussions about the lecture, assignments, exams, logistics, etc
   - Please make the question/discussion public so that others can benefit from it
   - Do NOT post problem solutions or code to the public discussion board
 - Communication with the course staffs
   - You can also email me (preferred). Please add an "\[ECE 312\]" prefix to your subject
 
+</v-clicks>
 
 ---
 
@@ -258,6 +283,7 @@ It has **up-to-date**:
 
 <div v-click>
 <table>
+  <tbody>
     <tr>
         <td><strong>Grade</strong></td>
         <td>A</td>
@@ -288,6 +314,7 @@ It has **up-to-date**:
         <td>>=60</td>
         <td>>=0</td>
     </tr>
+  </tbody>
 </table>
 </div>
 
@@ -299,15 +326,13 @@ It has **up-to-date**:
 
 - Complete an anonymous course-preparation survey before next class (0.5 bonus points)
   - Link (UTMail sign-in required. The link is also available on the course website):
-<a href="https://forms.gle/VR6cvcGyr9ycnSzL6" target="_blank">https://forms.gle/VR6cvcGyr9ycnSzL6</a>
+[https://forms.gle/VR6cvcGyr9ycnSzL6](https://forms.gle/VR6cvcGyr9ycnSzL6){target=_blank}
 
 - Create an ECE-LRC account
   - Link:
-<a href="https://utdirect.utexas.edu/apps/ece/db/acme" target="_blank">
-https://utdirect.utexas.edu/apps/ece/db/acme</a>
+[https://utdirect.utexas.edu/apps/ece/db/acme](https://utdirect.utexas.edu/apps/ece/db/acme){target=_blank}
   - How to connect to ECE-LRC servers:
-<a href="https://cloud.wikis.utexas.edu/wiki/spaces/eceit/pages/37752870/ECE+Linux+Application+Servers" target="_blank">
-https://cloud.wikis.utexas.edu/wiki/spaces/eceit/pages/37752870/ECE+Linux+Application+Servers</a>\
+[https://cloud.wikis.utexas.edu/wiki/spaces/eceit/pages/37752870/ECE+Linux+Application+Servers](https://cloud.wikis.utexas.edu/wiki/spaces/eceit/pages/37752870/ECE+Linux+Application+Servers){target=_blank}\
 (e.g., `ssh <your LRC username>@peach.ece.utexas.edu`)
 
 - Download and install Visual Studio Code (VS Code)
