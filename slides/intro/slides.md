@@ -295,6 +295,8 @@ It has **up-to-date**:
 
 # TODOs for You
 
+<v-clicks depth="1">
+
 - Complete an anonymous course-preparation survey before next class (0.5 bonus points)
   - Link (UTMail sign-in required. The link is also available on the course website):
 <a href="https://forms.gle/VR6cvcGyr9ycnSzL6" target="_blank">https://forms.gle/VR6cvcGyr9ycnSzL6</a>
@@ -306,8 +308,10 @@ https://utdirect.utexas.edu/apps/ece/db/acme</a>
   - How to connect to ECE-LRC servers:
 <a href="https://cloud.wikis.utexas.edu/wiki/spaces/eceit/pages/37752870/ECE+Linux+Application+Servers" target="_blank">
 https://cloud.wikis.utexas.edu/wiki/spaces/eceit/pages/37752870/ECE+Linux+Application+Servers</a>\
-(e.g., `ssh <your username>@peach.ece.utexas.edu`)
+(e.g., `ssh <your LRC username>@peach.ece.utexas.edu`)
 
 - Download and install Visual Studio Code (VS Code)
 
 - Remember to bring a *charged* laptop to recitations and lectures
+
+</v-clicks>
