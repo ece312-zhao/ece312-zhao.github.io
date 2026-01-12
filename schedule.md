@@ -97,7 +97,7 @@ ul.inline {
 <tr class="recitation">
     <td class="date">Jan 14</td>
     <td>(R) Environment Setup</td>
-    <td><!-- Lecture Materials --></td>
+    <td><a href="code/lrc_setup.sh" target="_blank">LRC Setup Script</a></td>
     <td><!-- Dues --></td>
 </tr>
 <tr class="week-start">
