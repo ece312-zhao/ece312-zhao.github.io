@@ -309,3 +309,5 @@ https://cloud.wikis.utexas.edu/wiki/spaces/eceit/pages/37752870/ECE+Linux+Applic
 (e.g., `ssh <your username>@peach.ece.utexas.edu`)
 
 - Download and install Visual Studio Code (VS Code)
+
+- Remember to bring a *charged* laptop to recitations and lectures
