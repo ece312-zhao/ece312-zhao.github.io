@@ -98,10 +98,8 @@ ul.inline {
     <td class="date">Jan 14</td>
     <td>(R) Environment Setup</td>
     <td>
-	<ul>
-	    <li><a href="code/lrc_setup.sh" target="_blank">LRC Setup Script</a></li>
-	    <li><a href="code/example.cpp" target="_blank">C++ Test Run</a></li>
-        </ul>
+	<a href="code/lrc_setup.sh" target="_blank">LRC Setup Script</a><br>
+	<a href="code/example.cpp" target="_blank">C++ Test Run</a>
     </td>
     <td><!-- Dues --></td>
 </tr>
