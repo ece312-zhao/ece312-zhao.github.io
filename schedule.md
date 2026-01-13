@@ -252,7 +252,7 @@ ul.inline {
     <td rowspan="15" class="theme">C++ Programming</td>
     <td rowspan="3" class="week" id="week-11">Week 11</td>
     <td class="date">Mar 23</td>
-    <td>(L)Introduction to C++</td>
+    <td>(L) Introduction to C++</td>
     <td><!-- Lecture Materials --></td>
     <td><!-- Dues --></td>
 </tr>
