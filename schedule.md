@@ -91,7 +91,7 @@ ul.inline {
 <tr>
     <td class="date">Jan 14</td>
     <td>(L) Variables and Functions</td>
-    <td><!-- Lecture Materials --></td>
+    <td><a href="code/L1/quadratic.c" target="_blank">Code</a></td>
     <td><a href="https://forms.gle/VR6cvcGyr9ycnSzL6" target="_blank">Anonymous Survey (0.5%)</a></td>
 </tr>
 <tr class="recitation">
