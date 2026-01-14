@@ -14,8 +14,8 @@ nav_enabled: false
 **Instructor Office Hours:** Mon 3:00 pm–3:30 pm, Tue 2:30 pm–3:00 pm, or by appointment, EER 5.890
 
 **Recitation:** Wed 10:00 am–11:00 am (17925) or 12:00 pm–1:00 pm (17935), EER 0.818\\
-**TA:** Allison Seigler\\
-**TA Office Hours:** Thu 4:00pm-6:00pm, EER 5.652
+**TA:** Allison Seigler <[aseigler@utexas.edu](mailto:aseigler@utexas.edu)>\\
+**TA Office Hours:** Thu 3:00pm-4:00pm (EER 5.650), Fri 3:00pm-4:00pm (EER 5.650)
 
 [[Schedule and Materials](schedule)],
 [<a href="https://utexas.instructure.com/courses/1434840" target="_blank">Canvas</a>],
