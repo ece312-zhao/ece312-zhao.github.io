@@ -118,7 +118,7 @@ ul.inline {
 <tr class="recitation">
     <td class="date">Jan 21</td>
     <td>(R) C/C++ Programming in VSCode</td>
-    <td><!-- Lecture Materials --></td>
+    <td><a href="files/2_VSCode.pptx" target="_blank">Slides</a></td>
     <td><!-- Dues --></td>
 </tr>
 <tr class="week-start">
