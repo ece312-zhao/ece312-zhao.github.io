@@ -112,7 +112,10 @@ ul.inline {
 <tr>
     <td class="date">Jan 21</td>
     <td>(L) Arrays and Strings</td>
-    <td><!-- Lecture Materials --></td>
+    <td>
+        <a href="code/L2/string.c" target="_blank">Code</a><br>
+        <a href="https://en.cppreference.com/w/c/io/fprintf" target="_blank">Printf and Format Specifier</a><br>
+    </td>
     <td><!-- Dues --></td>
 </tr>
 <tr class="recitation">
