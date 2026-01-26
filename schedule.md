@@ -128,7 +128,10 @@ ul.inline {
     <td rowspan="3" class="week" id="week-3">Week 3</td>
     <td class="date">Jan 26</td>
     <td>(L) Pointers and Memory Basics</td>
-    <td><!-- Lecture Materials --></td>
+    <td>
+        <a href="code/L3/pointer.c" target="_blank">Code</a><br>
+        <a href="https://c-faq.com/decl/spiral.anderson.html" target="_blank">How to read complex type definitions</a><br>
+    </td>
     <td class="due">PA #0 Due (3%)</td>
 </tr>
 <tr>
