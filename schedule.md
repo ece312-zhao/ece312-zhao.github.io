@@ -142,7 +142,7 @@ ul.inline {
 </tr>
 <tr class="recitation">
     <td class="date">Jan 28</td>
-    <td>(R) Debugging Tools</td>
+    <td>(R) In-Class Quiz</td>
     <td><!-- Lecture Materials --></td>
     <td><!-- Dues --></td>
 </tr>
