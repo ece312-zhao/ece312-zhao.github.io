@@ -137,7 +137,7 @@ ul.inline {
 <tr>
     <td class="date">Jan 28</td>
     <td>(L) Memory Management in C</td>
-    <td><!-- Lecture Materials --></td>
+    <td><a href="code/L4/memory.c" target="_blank">Code</a><br></td>
     <td><!-- Dues --></td>
 </tr>
 <tr class="recitation">
