@@ -150,7 +150,10 @@ ul.inline {
     <td rowspan="3" class="week" id="week-4">Week 4</td>
     <td class="date">Feb 2</td>
     <td>(L) Structs</td>
-    <td><!-- Lecture Materials --></td>
+    <td>
+        <a href="code/L5/heap.c" target="_blank">Code (Heap)</a>
+        <a href="code/L5/struct.c" target="_blank">Code (Struct)</a>
+    </td>
     <td class="due">PA #1 Due (3%)</td>
 </tr>
 <tr>
