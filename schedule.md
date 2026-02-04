@@ -99,8 +99,8 @@ ul.inline {
     <td>(R) Environment Setup</td>
     <td>
     <a href="files/1_Setup.pptx" target="_blank">Slides</a><br>
-	<a href="code/lrc_setup.sh" target="_blank">LRC Setup Script</a><br>
-	<a href="code/example.cpp" target="_blank">C++ Test Run</a>
+	<a href="code/R1/lrc_setup.sh" target="_blank">LRC Setup Script</a><br>
+	<a href="code/R1/example.cpp" target="_blank">C++ Test Run</a>
     </td>
     <td><!-- Dues --></td>
 </tr>
@@ -143,7 +143,7 @@ ul.inline {
 <tr class="recitation">
     <td class="date">Jan 28</td>
     <td>(R) In-Class Quiz</td>
-    <td><!-- Lecture Materials --></td>
+    <td></td>
     <td><!-- Dues --></td>
 </tr>
 <tr class="week-start">
@@ -168,7 +168,10 @@ ul.inline {
 <tr class="recitation">
     <td class="date">Feb 4</td>
     <td>(R) Valgrind and AddressSanitizer</td>
-    <td><!-- Lecture Materials --></td>
+    <td>
+    <a href="files/4_Valgrind.pptx" target="_blank">Slides</a><br>
+	<a href="code/R4/recitation4.c" target="_blank">Code</a><br>
+    </td>
     <td><!-- Dues --></td>
 </tr>
 <tr class="week-start">
