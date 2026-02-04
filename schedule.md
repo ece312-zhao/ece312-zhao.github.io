@@ -159,7 +159,10 @@ ul.inline {
 <tr>
     <td class="date">Feb 4</td>
     <td>(L) Structs Excercise</td>
-    <td><!-- Lecture Materials --></td>
+    <td>
+        <a href="code/L6/struct.c" target="_blank">Code (Struct)</a>
+        <a href="code/L6/calculator.c" target="_blank">Code (Calculator)</a>
+    </td>
     <td><!-- Dues --></td>
 </tr>
 <tr class="recitation">
