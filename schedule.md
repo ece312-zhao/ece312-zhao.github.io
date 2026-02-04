@@ -143,8 +143,7 @@ ul.inline {
 <tr class="recitation">
     <td class="date">Jan 28</td>
     <td>(R) In-Class Quiz</td>
-    <td><a href="files/4_Valgrind.pptx" target="_blank">Slides</a><br>
-	<a href="code/R4/recitation4.c" target="_blank">Code</a><br></td>
+    <td></td>
     <td><!-- Dues --></td>
 </tr>
 <tr class="week-start">
@@ -166,7 +165,10 @@ ul.inline {
 <tr class="recitation">
     <td class="date">Feb 4</td>
     <td>(R) Valgrind and AddressSanitizer</td>
-    <td><!-- Lecture Materials --></td>
+    <td>
+    <a href="files/4_Valgrind.pptx" target="_blank">Slides</a><br>
+	<a href="code/R4/recitation4.c" target="_blank">Code</a><br>
+    </td>
     <td><!-- Dues --></td>
 </tr>
 <tr class="week-start">
