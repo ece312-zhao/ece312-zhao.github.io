@@ -81,7 +81,7 @@ ul.inline {
   </tr></thead>
 <tbody>
 <tr class="week-start">
-    <td rowspan="12" class="theme">C Programming</td>
+    <td rowspan="13" class="theme">C Programming</td>
     <td rowspan="3" class="week" id="week-1">Week 1</td>
     <td class="date">Jan 12</td>
     <td>(L) Course Introduction</td>
@@ -175,16 +175,16 @@ ul.inline {
     <td><!-- Dues --></td>
 </tr>
 <tr class="week-start">
-    <td rowspan="14" class="theme">Introductory Algorithm and Data Structures</td>
     <td rowspan="3" class="week" id="week-5">Week 5</td>
     <td class="date">Feb 9</td>
-    <td>(L) Sorting and Searching</td>
+    <td>(L) Advanced C Topics</td>
     <td><!-- Lecture Materials --></td>
     <td class="due">PA #2 Due (3%)</td>
 </tr>
 <tr>
+    <td rowspan="13" class="theme">Introductory Algorithm and Data Structures</td>
     <td class="date">Feb 11</td>
-    <td>(L) Algorithm Complexity I</td>
+    <td>(L) Sorting and Searching</td>
     <td><!-- Lecture Materials --></td>
     <td><!-- Dues --></td>
 </tr>
@@ -197,7 +197,7 @@ ul.inline {
 <tr class="week-start">
     <td rowspan="3" class="week" id="week-6">Week 6</td>
     <td class="date">Feb 16</td>
-    <td>(L) Algorithm Complexity II</td>
+    <td>(L) Algorithm Complexity</td>
     <td><!-- Lecture Materials --></td>
     <td class="due">PA #3 Due (3%)</td>
 </tr>
