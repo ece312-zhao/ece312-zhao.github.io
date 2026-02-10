@@ -170,7 +170,7 @@ ul.inline {
     <td>(R) Valgrind and AddressSanitizer</td>
     <td>
     <a href="files/4_Valgrind.pptx" target="_blank">Slides</a><br>
-	<a href="code/R4/recitation4.c" target="_blank">Code</a><br>
+	<a href="code/R4/recitation4.c" target="_blank">Code</a>
     </td>
     <td><!-- Dues --></td>
 </tr>
@@ -178,7 +178,7 @@ ul.inline {
     <td rowspan="3" class="week" id="week-5">Week 5</td>
     <td class="date">Feb 9</td>
     <td>(L) Advanced C Topics</td>
-    <td><!-- Lecture Materials --></td>
+    <td><a href="code/L7/calculator.zip" target="_blank">Code</a></td>
     <td class="due">PA #2 Due (3%)</td>
 </tr>
 <tr>
