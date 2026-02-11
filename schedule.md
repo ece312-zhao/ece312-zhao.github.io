@@ -191,7 +191,7 @@ ul.inline {
 <tr class="recitation">
     <td class="date">Feb 11</td>
     <td>(R) Version Control and Git</td>
-    <td><!-- Lecture Materials --></td>
+    <td><a href="files/5_Github.pptx" target="_blank">Slides</a></td>
     <td><!-- Dues --></td>
 </tr>
 <tr class="week-start">
