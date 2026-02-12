@@ -81,7 +81,7 @@ ul.inline {
   </tr></thead>
 <tbody>
 <tr class="week-start">
-    <td rowspan="13" class="theme">C Programming</td>
+    <td rowspan="15" class="theme">C Programming</td>
     <td rowspan="3" class="week" id="week-1">Week 1</td>
     <td class="date">Jan 12</td>
     <td>(L) Course Introduction</td>
@@ -182,10 +182,9 @@ ul.inline {
     <td class="due">PA #2 Due (3%)</td>
 </tr>
 <tr>
-    <td rowspan="13" class="theme">Introductory Algorithm and Data Structures</td>
     <td class="date">Feb 11</td>
-    <td>(L) Sorting and Searching</td>
-    <td><!-- Lecture Materials --></td>
+    <td>(L) Makefile</td>
+    <td><a href="code/L8/Module.zip" target="_blank">Code</a></td>
     <td><!-- Dues --></td>
 </tr>
 <tr class="recitation">
@@ -195,15 +194,16 @@ ul.inline {
     <td><!-- Dues --></td>
 </tr>
 <tr class="week-start">
+    <td rowspan="11" class="theme">Introductory Algorithm and Data Structures</td>
     <td rowspan="3" class="week" id="week-6">Week 6</td>
     <td class="date">Feb 16</td>
-    <td>(L) Algorithm Complexity</td>
+    <td>(L) Sorting and Searching</td>
     <td><!-- Lecture Materials --></td>
     <td class="due">PA #3 Due (3%)</td>
 </tr>
 <tr>
     <td class="date">Feb 18</td>
-    <td>(L) Recursion I</td>
+    <td>(L) Algorithm Complexity</td>
     <td><!-- Lecture Materials --></td>
     <td><!-- Dues --></td>
 </tr>
@@ -216,7 +216,7 @@ ul.inline {
 <tr class="week-start">
     <td rowspan="3" class="week" id="week-7">Week 7</td>
     <td class="date">Feb 23</td>
-    <td>(L) Recursion II</td>
+    <td>(L) Recursion</td>
     <td><!-- Lecture Materials --></td>
     <td class="due">PA #4 Due (3%)</td>
 </tr>
