@@ -198,7 +198,7 @@ ul.inline {
     <td rowspan="3" class="week" id="week-6">Week 6</td>
     <td class="date">Feb 16</td>
     <td>(L) Sorting and Searching</td>
-    <td><!-- Lecture Materials --></td>
+    <td><a href="code/L9/timer.h" target="_blank">timer.h</a></td>
     <td class="due">PA #3 Due (3%)</td>
 </tr>
 <tr>
