@@ -30,6 +30,12 @@ static void init_array_range(int *arr, size_t sz) {
 
 // exclusive
 static int rand_int(unsigned max) {
+  static bool seeded = false;
+  if (!seeded) {
+    srand(cycle_now());
+    seeded = true;
+  }
+
   if (max == 0)
     return 0;
 
@@ -44,7 +50,6 @@ static void shuffle_int_arr(int *arr, size_t sz) {
   if (sz <= 1)
     return;
 
-  srand(cycle_now());
   for (size_t i = 0; i < sz; i++) {
     size_t rem = sz - i;
     size_t idx = rand_int(rem) + i;
