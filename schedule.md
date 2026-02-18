@@ -206,7 +206,7 @@ ul.inline {
 <tr>
     <td class="date">Feb 18</td>
     <td>(L) Algorithm Complexity</td>
-    <td><!-- Lecture Materials --></td>
+    <td><<a href="code/L10/helper.h" target="_blank">helper.h</a></td>
     <td><!-- Dues --></td>
 </tr>
 <tr class="recitation">
