@@ -197,7 +197,7 @@ ul.inline {
     <td rowspan="11" class="theme">Introductory Algorithm and Data Structures</td>
     <td rowspan="3" class="week" id="week-6">Week 6</td>
     <td class="date">Feb 16</td>
-    <td>(L) Sorting and Searching</td>
+    <td>(L) Searching & Complexity</td>
     <td><a href="code/L9/timer.h" target="_blank">timer.h</a>
         <a href="code/L9/search.c" target="_blank">search.c</a>
     </td>
@@ -205,8 +205,9 @@ ul.inline {
 </tr>
 <tr>
     <td class="date">Feb 18</td>
-    <td>(L) Algorithm Complexity</td>
-    <td><a href="code/L10/helper.h" target="_blank">helper.h</a></td>
+    <td>(L) Sorting</td>
+    <td><a href="code/L10/helper.h" target="_blank">helper.h</a>
+        <a href="code/L10/sort.c" target="_blank">sort.c</a></td>
     <td><!-- Dues --></td>
 </tr>
 <tr class="recitation">
@@ -218,13 +219,13 @@ ul.inline {
 <tr class="week-start">
     <td rowspan="3" class="week" id="week-7">Week 7</td>
     <td class="date">Feb 23</td>
-    <td>(L) Recursion</td>
+    <td>(L) More Algorithm Complexity</td>
     <td><!-- Lecture Materials --></td>
     <td class="due">PA #4 Due (3%)</td>
 </tr>
 <tr>
     <td class="date">Feb 25</td>
-    <td>(L) Linked Lists</td>
+    <td>(L) Recursion</td>
     <td><!-- Lecture Materials --></td>
     <td><!-- Dues --></td>
 </tr>
@@ -237,7 +238,7 @@ ul.inline {
 <tr class="week-start">
     <td rowspan="2" class="week" id="week-8">Week 8</td>
     <td class="date">Mar 2</td>
-    <td>(L) More Lists</td>
+    <td>(L) Linked Lists</td>
     <td><!-- Lecture Materials --></td>
     <td>Anonymous Survey (0.5%)</td>
 </tr>
