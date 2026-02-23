@@ -212,8 +212,8 @@ ul.inline {
 </tr>
 <tr class="recitation">
     <td class="date">Feb 18</td>
-    <td>(R) Complexity Review</td>
-    <td><!-- Lecture Materials --></td>
+    <td>(R) Complexity and Sorting Review</td>
+    <td><a href="files/Sorting.pdf" target="_blank">Slides</a></td>
     <td><!-- Dues --></td>
 </tr>
 <tr class="week-start">
