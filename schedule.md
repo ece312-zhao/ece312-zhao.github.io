@@ -212,15 +212,15 @@ ul.inline {
 </tr>
 <tr class="recitation">
     <td class="date">Feb 18</td>
-    <td>(R) Complexity and Sorting Review</td>
-    <td><a href="files/Sorting.pdf" target="_blank">Slides</a></td>
+    <td>(R) Complexity Review</td>
+    <td></td>
     <td><!-- Dues --></td>
 </tr>
 <tr class="week-start">
     <td rowspan="3" class="week" id="week-7">Week 7</td>
     <td class="date">Feb 23</td>
-    <td>(L) More Algorithm Complexity</td>
-    <td><!-- Lecture Materials --></td>
+    <td>(L) More Algorithm Complexity and Sorting</td>
+    <td><a href="files/Sorting.pdf" target="_blank">Slides</a></td>
     <td class="due">PA #4 Due (3%)</td>
 </tr>
 <tr>
