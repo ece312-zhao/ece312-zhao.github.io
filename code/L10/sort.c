@@ -94,7 +94,8 @@ void insertion_sort_v1(int *arr, size_t sz) {
   if (sz <= 1) return;
 
   for (size_t sorted = 1; sorted < sz; sorted++) {
-    size_t elem = arr[sorted], i = sorted;
+    int elem = arr[sorted];
+    size_t i = sorted;
     while (i > 0 && elem < arr[i - 1]) {
       arr[i] = arr[i - 1];
       i -= 1;
