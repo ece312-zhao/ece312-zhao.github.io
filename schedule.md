@@ -226,7 +226,7 @@ ul.inline {
 <tr>
     <td class="date">Feb 25</td>
     <td>(L) Recursion</td>
-    <td><!-- Lecture Materials --></td>
+    <td><a href="files/Recursion.pdf" target="_blank">Slides</a></td>
     <td><!-- Dues --></td>
 </tr>
 <tr class="recitation">
