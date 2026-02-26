@@ -235,7 +235,8 @@ ul.inline {
 <tr class="recitation">
     <td class="date">Feb 25</td>
     <td>(R) Midterm Review</td>
-    <td><!-- Lecture Materials --></td>
+    <td><a href="files/7_ExamReview.pptx" target="_blank">Slides</a><br>
+    <a href="code/R7/MidtermReviewFRQex.c" target="_blank">FRQAnswer</a></td>
     <td><!-- Dues --></td>
 </tr>
 <tr class="week-start">
