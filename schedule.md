@@ -233,7 +233,7 @@ ul.inline {
     <td class="date">Feb 25</td>
     <td>(R) Midterm Review</td>
     <td><a href="files/7_ExamReview.pptx" target="_blank">Slides</a><br>
-    <a href="code/R7/MidtermReviewFRQex.c" target="_blank">FRQ Answer</a>
+    <a href="code/R7/MidtermReviewFRQex.c" target="_blank">FRQAnswer</a>
     </td>
     <td><!-- Dues --></td>
 </tr>
