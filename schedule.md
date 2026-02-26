@@ -226,7 +226,10 @@ ul.inline {
 <tr>
     <td class="date">Feb 25</td>
     <td>(L) Recursion</td>
-    <td><a href="files/Recursion.pdf" target="_blank">Slides</a></td>
+    <td>
+        <a href="files/Recursion.pdf" target="_blank">Slides</a>
+        <a href="code/L12/recursion.c" target="_blank">Code</a>
+    </td>
     <td><!-- Dues --></td>
 </tr>
 <tr class="recitation">
