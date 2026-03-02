@@ -243,19 +243,22 @@ ul.inline {
     <td rowspan="2" class="week" id="week-8">Week 8</td>
     <td class="date">Mar 2</td>
     <td>(L) Linked Lists</td>
-    <td><!-- Lecture Materials --></td>
-    <td>Anonymous Survey (0.5%)</td>
+    <td>
+        <a href="files/Linked List.pdf" target="_blank">Slides</a>
+    </td>
+    <td></td>
 </tr>
 <tr>
     <td class="date">Mar 4</td>
-    <td colspan="3" class="exam">Midterm Exam (25%)</td>
+    <td>(L) Trees</td>
+    <td><!-- Lecture Materials --></td>
+    <td>Anonymous Survey (0.5%)</td>
 </tr>
 <tr class="week-start">
     <td rowspan="3" class="week" id="week-9">Week 9</td>
     <td class="date">Mar 9</td>
-    <td>(L) Trees</td>
-    <td><!-- Lecture Materials --></td>
-    <td><!-- Dues --></td>
+    <td colspan="3" class="exam">Midterm Exam (25%)</td>
+
 </tr>
 <tr>
     <td class="date">Mar 11</td>
