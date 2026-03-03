@@ -244,7 +244,9 @@ ul.inline {
     <td class="date">Mar 2</td>
     <td>(L) Linked Lists</td>
     <td>
-        <a href="files/Linked List.pdf" target="_blank">Slides</a>
+        <a href="files/Linked List.pdf" target="_blank">Slides;</a>
+        <a href="code/L13/linked-list.c" target="_blank">Code</a><br>
+        <a href="https://www.youtube.com/watch?v=78Y17hAo96I" target="_blank">Tastes in Code and Linked Lists (Linus Torvalds)</a>
     </td>
     <td></td>
 </tr>
