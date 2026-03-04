@@ -253,7 +253,7 @@ ul.inline {
 <tr>
     <td class="date">Mar 4</td>
     <td>(L) Trees</td>
-    <td><!-- Lecture Materials --></td>
+    <td><a href="files/Tree.pdf" target="_blank">Slides</a></td>
     <td>Anonymous Survey (0.5%)</td>
 </tr>
 <tr class="week-start">
