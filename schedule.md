@@ -253,26 +253,28 @@ ul.inline {
 <tr>
     <td class="date">Mar 4</td>
     <td>(L) Trees</td>
-    <td><a href="files/Tree.pdf" target="_blank">Slides</a></td>
-    <td>Anonymous Survey (0.5%)</td>
+    <td>
+        <a href="files/Tree.pdf" target="_blank">Slides</a>
+        <a href="code/L14/tree.c" target="_blank">Code</a>
+    </td>
+    <td></td>
 </tr>
 <tr class="week-start">
     <td rowspan="3" class="week" id="week-9">Week 9</td>
     <td class="date">Mar 9</td>
-    <td colspan="3" class="exam">Midterm Exam (25%)</td>
-
+    <td>(L) Hash Tables</td>
+    <td><a href="files/Hash Table.pdf" target="_blank">Slides</a></td>
+    <td><!-- Dues --></td>
 </tr>
 <tr>
     <td class="date">Mar 11</td>
-    <td>(L) Hash Tables</td>
-    <td><!-- Lecture Materials --></td>
-    <td><!-- Dues --></td>
+    <td colspan="3" class="exam">Midterm Exam (25%)</td>
 </tr>
 <tr class="recitation">
     <td class="date">Mar 11</td>
-    <td>(R) Midterm Solutions</td>
+    <td>(Canceled)</td>
     <td><!-- Lecture Materials --></td>
-    <td><!-- Dues --></td>
+    <td>Anonymous Survey (0.5%)</td>
 </tr>
 <tr class="week-start">
     <td></td>
