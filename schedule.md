@@ -263,7 +263,10 @@ ul.inline {
     <td rowspan="3" class="week" id="week-9">Week 9</td>
     <td class="date">Mar 9</td>
     <td>(L) Hash Tables</td>
-    <td><a href="files/Hash Table.pdf" target="_blank">Slides</a></td>
+    <td>
+        <a href="files/Hash Table.pdf" target="_blank">Slides</a>
+        <a href="code/L15/hash-table.c" target="_blank">Code</a>
+    </td>
     <td><!-- Dues --></td>
 </tr>
 <tr>
