@@ -132,7 +132,7 @@ ul.inline {
         <a href="code/L3/pointer.c" target="_blank">Code</a><br>
         <a href="https://c-faq.com/decl/spiral.anderson.html" target="_blank">How to read complex type definitions</a><br>
     </td>
-    <td class="due">PA #0 Due (3%)</td>
+    <td class="due">PA #0 Due (2%)</td>
 </tr>
 <tr>
     <td class="date">Jan 28</td>
@@ -194,7 +194,7 @@ ul.inline {
     <td><!-- Dues --></td>
 </tr>
 <tr class="week-start">
-    <td rowspan="11" class="theme">Introductory Algorithm and Data Structures</td>
+    <td rowspan="12" class="theme">Introductory Algorithm and Data Structures</td>
     <td rowspan="3" class="week" id="week-6">Week 6</td>
     <td class="date">Feb 16</td>
     <td>(L) Searching & Complexity</td>
@@ -234,7 +234,7 @@ ul.inline {
 </tr>
 <tr class="recitation">
     <td class="date">Feb 25</td>
-    <td>(R) Midterm Review</td>
+    <td>(R) Exam 1 Review</td>
     <td><a href="files/7_ExamReview.pptx" target="_blank">Slides</a><br>
     <a href="code/R7/MidtermReviewFRQex.c" target="_blank">FRQAnswer</a></td>
     <td><!-- Dues --></td>
@@ -260,7 +260,7 @@ ul.inline {
     <td></td>
 </tr>
 <tr class="week-start">
-    <td rowspan="3" class="week" id="week-9">Week 9</td>
+    <td rowspan="2" class="week" id="week-9">Week 9</td>
     <td class="date">Mar 9</td>
     <td>(L) Hash Tables</td>
     <td>
@@ -271,36 +271,29 @@ ul.inline {
 </tr>
 <tr>
     <td class="date">Mar 11</td>
-    <td colspan="3" class="exam">Midterm Exam (25%)</td>
-</tr>
-<tr class="recitation">
-    <td class="date">Mar 11</td>
-    <td>(Canceled)</td>
-    <td><!-- Lecture Materials --></td>
-    <td>Anonymous Survey (0.5%)</td>
+    <td colspan="3" class="exam">Exam 1 (20%)</td>
 </tr>
 <tr class="week-start">
-    <td></td>
     <td colspan="2" style="text-align: center" class="date" id="week-10">Week 10</td>
     <td colspan="3" class="break">Spring Break (Optional Reading: "Why We Sleep" by Matthew Walker)</td>
 </tr>
 <tr class="week-start">
-    <td rowspan="15" class="theme">C++ Programming</td>
     <td rowspan="3" class="week" id="week-11">Week 11</td>
     <td class="date">Mar 23</td>
-    <td>(L) Introduction to C++</td>
+    <td>(L) Exam 1 Solutions</td>
     <td><!-- Lecture Materials --></td>
     <td><!-- Dues --></td>
 </tr>
 <tr>
+    <td rowspan="14" class="theme">C++ Programming</td>
     <td class="date">Mar 25</td>
-    <td>(L) C++ Class Basics</td>
+    <td>(L) Introduction to C++</td>
     <td><!-- Lecture Materials --></td>
     <td><!-- Dues --></td>
 </tr>
 <tr class="recitation">
     <td class="date">Mar 25</td>
-    <td>(R) Data Structure and PA #5 Hints</td>
+    <td>(R) PA #5 Hints</td>
     <td><!-- Lecture Materials --></td>
     <td><!-- Dues --></td>
 </tr>
@@ -313,7 +306,7 @@ ul.inline {
 </tr>
 <tr>
     <td class="date">Apr 1</td>
-    <td>(L) Inheritance and Polymorphism I</td>
+    <td>(L) Inheritance and Polymorphism</td>
     <td><!-- Lecture Materials --></td>
     <td class="due">PA #5 Due<sup>1</sup> (7%)</td>
 </tr>
@@ -326,9 +319,7 @@ ul.inline {
 <tr class="week-start">
     <td rowspan="3" class="week" id="week-13">Week 13</td>
     <td class="date">Apr 6</td>
-    <td>(L) Inheritance and Polymorphism II</td>
-    <td><!-- Lecture Materials --></td>
-    <td class="due"></td>
+    <td colspan="3" class="exam">Exam 2 (20%)</td>
 </tr>
 <tr>
     <td class="date">Apr 8</td>
@@ -338,7 +329,7 @@ ul.inline {
 </tr>
 <tr class="recitation">
     <td class="date">Apr 8</td>
-    <td>(R) Common C++ Boilerplates</td>
+    <td>(R) Exam 2 Solutions</td>
     <td><!-- Lecture Materials --></td>
     <td><!-- Dues --></td>
 </tr>
@@ -372,7 +363,7 @@ ul.inline {
     <td class="date">Apr 22</td>
     <td>(L) Final Review<sup>2</sup></td>
     <td><!-- Lecture Materials --></td>
-    <td class="due">PA #6 Due<sup>1</sup> (8%)</td>
+    <td class="due">PA #6 Due<sup>1</sup> (7%)</td>
 </tr>
 <tr class="recitation">
     <td class="date">Apr 22</td>
@@ -383,7 +374,7 @@ ul.inline {
 <tr class="week-start">
     <td></td>
     <td colspan="2" style="text-align: center" class="date">Apr 27</td>
-    <td colspan="3" class="exam">Final Exam (30%)</td>
+    <td colspan="3" class="exam">Exam 3 (20%)</td>
 </tr>
 </tbody></table>
 <sup>1</sup> Due before the corresponding recitation session<br/>

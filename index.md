@@ -56,10 +56,9 @@ down to a minimum of 0. We round up to the next hour.
 ## Grading
 * 3%: Class participation (includes attendance, in-class discussion, and pop quizzes)
 * 3%: Recitation quizzes
-* 9%: Homework assignments
-* 30%: Programming assignments
-* 25%: Midterm exam
-* 30%: Final exam
+* 6%: Homework assignments (x3)
+* 28%: Programming assignments (x7)
+* 60%: Exams (x3)
 
 ### Grade Breaks
 
