@@ -300,13 +300,13 @@ ul.inline {
 <tr class="week-start">
     <td rowspan="3" class="week" id="week-12">Week 12</td>
     <td class="date">Mar 30</td>
-    <td>(L) Memory Management in C++</td>
+    <td>(L) Object Lifetime</td>
     <td><!-- Lecture Materials --></td>
     <td><!-- Dues --></td>
 </tr>
 <tr>
     <td class="date">Apr 1</td>
-    <td>(L) Inheritance and Polymorphism</td>
+    <td>(L) Inheritance and Polymorphism I</td>
     <td><!-- Lecture Materials --></td>
     <td class="due">PA #5 Due<sup>1</sup> (7%)</td>
 </tr>
@@ -323,7 +323,7 @@ ul.inline {
 </tr>
 <tr>
     <td class="date">Apr 8</td>
-    <td>(L) Templates</td>
+    <td>(L) Inheritance and Polymorphism II</td>
     <td><!-- Lecture Materials --></td>
     <td><!-- Dues --></td>
 </tr>
@@ -336,13 +336,13 @@ ul.inline {
 <tr class="week-start">
     <td rowspan="3" class="week" id="week-14">Week 14</td>
     <td class="date">Apr 13</td>
-    <td>(L) STL Containers</td>
+    <td>(L) Containers</td>
     <td><!-- Lecture Materials --></td>
     <td><!-- Dues --></td>
 </tr>
 <tr>
     <td class="date">Apr 15</td>
-    <td>(L) Dynamic Programming</td>
+    <td>(L) Templates</td>
     <td><!-- Lecture Materials --></td>
     <td><!-- Dues --></td>
 </tr>
