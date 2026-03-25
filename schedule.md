@@ -294,7 +294,7 @@ ul.inline {
 <tr class="recitation">
     <td class="date">Mar 25</td>
     <td>(R) PA #5 Hints</td>
-    <td><!-- Lecture Materials --></td>
+     <td><a href="files/8_PA5.pptx" target="_blank">Slides</a></td>
     <td><!-- Dues --></td>
 </tr>
 <tr class="week-start">
