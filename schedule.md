@@ -313,7 +313,9 @@ ul.inline {
 <tr class="recitation">
     <td class="date">Apr 1</td>
     <td>(R) PA #5 Checkout</td>
-    <td><!-- Lecture Materials --></td>
+    <td> 
+    <a href="https://docs.google.com/spreadsheets/d/1XNin2a1sWCp-I_JDL2EDpmvHfVz_h54Oe8JslZt5n_k/edit?gid=0#gid=0" target="_blank">Sign-Up Sheet</a>
+    </td>
     <td><!-- Dues --></td>
 </tr>
 <tr class="week-start">
