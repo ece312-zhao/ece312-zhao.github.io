@@ -288,7 +288,7 @@ ul.inline {
     <td rowspan="14" class="theme">C++ Programming</td>
     <td class="date">Mar 25</td>
     <td>(L) Introduction to C++</td>
-    <td><a href="Code/L16/intro_cpp.cpp">Code</a></td>
+    <td><a href="code/L16/intro_cpp.cpp">Code</a></td>
     <td><!-- Dues --></td>
 </tr>
 <tr class="recitation">
