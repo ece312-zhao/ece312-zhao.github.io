@@ -301,7 +301,9 @@ ul.inline {
     <td rowspan="3" class="week" id="week-12">Week 12</td>
     <td class="date">Mar 30</td>
     <td>(L) Object Lifetime</td>
-    <td><!-- Lecture Materials --></td>
+    <td>
+        <a href="files/C++ Intro.pdf" target="_blank">Slides</a>
+    </td>
     <td><!-- Dues --></td>
 </tr>
 <tr>
