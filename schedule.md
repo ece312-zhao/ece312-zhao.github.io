@@ -310,7 +310,10 @@ ul.inline {
 <tr>
     <td class="date">Apr 1</td>
     <td>(L) Inheritance and Polymorphism I</td>
-    <td><!-- Lecture Materials --></td>
+    <td>
+        <a href="code/L18/bad_blocks.cpp" target="_blank">bad_blocks.cpp</a>
+        <a href="code/L18/good_blocks.cpp" target="_blank">good_blocks.cpp</a>
+    </td>
     <td class="due">PA #5 Due<sup>1</sup> (7%)</td>
 </tr>
 <tr class="recitation">
