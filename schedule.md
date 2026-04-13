@@ -348,7 +348,9 @@ ul.inline {
     <td rowspan="3" class="week" id="week-14">Week 14</td>
     <td class="date">Apr 13</td>
     <td>(L) Containers</td>
-    <td><!-- Lecture Materials --></td>
+    <td>
+        <a href="code/L20/stl_containers.cpp" target="_blank">Code</a>
+    </td>
     <td><!-- Dues --></td>
 </tr>
 <tr>
