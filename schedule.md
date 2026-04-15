@@ -356,7 +356,10 @@ ul.inline {
 <tr>
     <td class="date">Apr 15</td>
     <td>(L) Templates</td>
-    <td><!-- Lecture Materials --></td>
+    <td>
+        <a href="code/L21/templates.cpp" target="_blank">templates.cpp</a>
+        <a href="code/L21/templates.zip" target="_blank">Templates (Multi-file)</a>
+    </td>
     <td><!-- Dues --></td>
 </tr>
 <tr class="recitation">
