@@ -385,8 +385,7 @@ ul.inline {
     <td class="date">Apr 22</td>
     <td>(R) PA #6 Checkout</td>
     <td>
-    <a
-    href="https://docs.google.com/spreadsheets/d/1n_JWGGUkujoUstDz6CGXbwITz2nRLwIV25PU8qKs_14/edit?usp=sharing"
+    <a href="https://docs.google.com/spreadsheets/d/1n_JWGGUkujoUstDz6CGXbwITz2nRLwIV25PU8qKs_14/edit?usp=sharing"
     target="_blank">Sign-Up Sheet</a>
     </td>
     <td><!-- Dues --></td>
