@@ -371,8 +371,11 @@ ul.inline {
 <tr class="week-start">
     <td rowspan="3" class="week" id="week-15">Week 15</td>
     <td class="date">Apr 20</td>
-    <td>(L) System Programming</td>
-    <td><!-- Lecture Materials --></td>
+    <td>(L) Exceptions & Streams</td>
+    <td>
+        <a href="code/L22/exceptions.cpp" target="_blank">Exceptions</a>
+        <a href="code/L22/streams.cpp" target="_blank">Streams</a>
+    </td>
     <td><!-- Dues --></td>
 </tr>
 <tr>
